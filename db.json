@@ -1,0 +1,18 @@
+{
+  "id": 1,
+  "name": "Frank User",
+  "todos": [
+    {
+      "id": 1,
+      "title": "Task One",
+      "completed": false,
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Task Two",
+      "completed": true,
+      "userId": 1
+    }
+  ]
+}
